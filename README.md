@@ -1,3 +1,3 @@
-Andi Nurun Muhammad Akbar
+*****Andi Nurun Muhammad Akbar
 F55119093
-MK Kecerdasan Buatan Kelas B
+MK Kecerdasan Buatan Kelas B*****
