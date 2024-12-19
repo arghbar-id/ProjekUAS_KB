@@ -1,3 +1,5 @@
+# Algoritma KMeans
+
 **Perhitungan Pengelolaan Sampah**
 
 Proyek ini bertujuan untuk membantu instansi pemerintah dalam merencanakan dan menghitung kebutuhan pengelolaan sampah di berbagai daerah. Dengan menggunakan analisis data, proyek ini memberikan wawasan yang lebih baik mengenai pengelolaan sampah berdasarkan karakteristik demografis dan sosial di masing-masing wilayah.
